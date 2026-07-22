@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola, soy [Tu Nombre]!</h1>
+<h1 align="center">👋 ¡Hola, soy Johan Pineda!</h1>
 <h3 align="center">Estudiante de Ingeniería Mecatrónica | Universidad Militar Nueva Granada</h3>
 
 <p align="center">
